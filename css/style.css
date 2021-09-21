@@ -73,6 +73,6 @@ h1 {
 }
 /* Main content */
 .main {
-  margin-top: 50px; /* Add a top margin to avoid content overlay */
-  margin-bottom: 50px
+  margin-top: 10px; /* Add a top margin to avoid content overlay */
+  margin-bottom: 10px
 }
