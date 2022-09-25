@@ -325,6 +325,15 @@ pre > code {
   padding: 60px;
 }
 
+/* Footers
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+footer {
+  padding: 60px;
+  font-style: italic;
+  font-size: 60%; 
+  color: #bebebe
+}
 /* Tables
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 th,
